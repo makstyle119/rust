@@ -1,23 +1,23 @@
-<!-- grepper rust installed -->
-
 check If rust Is installed
 
 > rustup --version
-
-<!-- end grepper -->
-
-<!-- grepper rust update -->
 
 check for rust update
 
 > rustup update
 
-<!-- end grepper -->
-
-<!-- grepper rust compiler -->
-
 check for rust compiler
 
 > rustc --version
 
-<!-- end grepper -->
+create a new folder with cargo
+
+> cargo new hello
+
+crete a new project inside the folder
+
+> cargo init
+
+run or compile rust code
+
+> cargo run
